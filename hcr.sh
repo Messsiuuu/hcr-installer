@@ -16,7 +16,7 @@
 set -euo pipefail
 
 # ---------------- editar al subir el repo ----------------------------
-REPO_RAW="${HCR_REPO:-https://raw.githubusercontent.com/USUARIO/REPO/main}"
+REPO_RAW="${HCR_REPO:-https://raw.githubusercontent.com/Messsiuuu/hcr-installer/main}"
 # sha256 de hcr-server. Si subis una version nueva: sha256sum hcr-server
 BIN_SHA256="68a66ed49750965680315a60ce05260cdbb77c2b86b3a80938844cb4855fa085"
 # ---------------------------------------------------------------------
